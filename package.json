@@ -1,0 +1,22 @@
+{
+  "name": "muhammad_shaharyar_table_generator_loop",
+  "version": "1.0.2",
+  "description": "This a cli base table Generator ",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Shaharyar",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.12"
+  },
+  "dependencies": {
+    "code_with_shary_table_generator_loop01": "^1.0.2",
+    "inquirer": "^9.2.22"
+  }
+}
